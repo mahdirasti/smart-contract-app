@@ -1,0 +1,16 @@
+{
+  "dashboard": "dashboard",
+  "welcome_box_description": "here whats happening in your dashboard today.",
+  "search_a_nickname_or_transaction": "search a nickname or transaction",
+  "type_your_email_address": "type your email address",
+  "find_project_card": "If anyone tells you that you should never use contractions in writing, they're wrong. It's perfectly OK to use contractions in most writing, including newspapers, fiction, and instructions.",
+  "contract_card": "If anyone tells you that you should neveruse contractions in writing...",
+  "select_wallet_section": "Please select a wallet to continue",
+  "what_is_a_wallet": "What is a wallet",
+  "submit_wallet_description": "You’ll need to install Metamask to continue. Once you have installed it, go ahead and refresh the page",
+  "nickname_visibility": "people can see your nickname",
+  "lorem_ipsum": "orem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt nisi quis interdum facilisis. Donec aliquam eros eu dolor maximus tristique. Curabitur faucibus massa ut pellentesque consectetur. Mauris non feugiat metus. Quisque lacus tellus, fringilla a ipsum eu, interdum aliquam augue. Etiam laoreet tincidunt purus a placerat. Cras ultricies turpis vel erat elementum, sit amet congue ante tristique.",
+  "attachment_description": "You can add photos and videos",
+  "success_transaction": "Success Transaction",
+  "created_contract_view": "you can see your new contract on your activity"
+}

@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.Toastify__close-button {
+  display: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@font-face {
+  font-family: Epilogue;
+  font-style: normal;
+  font-weight: bold;
+  src: url("./assets/fonts/Epilogue/Epilogue-Bold.woff");
+}
+
+@font-face {
+  font-family: Epilogue;
+  font-style: normal;
+  font-weight: 100;
+  src: url("./assets/fonts/Epilogue/Epilogue-Thin.woff");
+}
+
+@font-face {
+  font-family: Epilogue;
+  font-style: normal;
+  font-weight: 300;
+  src: url("./assets/fonts/Epilogue/Epilogue-Light.woff");
+}
+
+@font-face {
+  font-family: Epilogue;
+  font-style: normal;
+  font-weight: normal;
+  src: url("./assets/fonts/Epilogue/Epilogue-Regular.woff");
+}
+
+@font-face {
+  font-family: Epilogue;
+  font-style: normal;
+  font-weight: 500;
+  src: url("./assets/fonts/Epilogue/Epilogue-Medium.woff");
+}
+
+@font-face {
+  font-family: Epilogue;
+  font-style: normal;
+  font-weight: 900;
+  src: url("./assets/fonts/Epilogue/Epilogue-Black.woff");
+}
